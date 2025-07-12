@@ -68,12 +68,6 @@ python predict.py
 
 ---
 
-## 📸 Sample Outputs
-
-> *(Add a few example images or prediction screenshots if available)*
-
----
-
 ## 🙋‍♀️ Author
 
 - 👩‍💻 **Tanishka Ruhela**
