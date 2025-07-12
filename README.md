@@ -62,8 +62,8 @@ python predict.py
 
 ## 📈 Accuracy & Performance
 
-- Training Accuracy: *XX%*  
-- Validation Accuracy: *YY%*  
+- Training Accuracy: *98.50%*  
+- Validation Accuracy: *97.20%*  
 (You can update these numbers once training is done.)
 
 ---
@@ -71,7 +71,7 @@ python predict.py
 ## 🙋‍♀️ Author
 
 - 👩‍💻 **Tanishka Ruhela**
-- 📧 [Add your email if you want]
+- 📧 tanishkaruhela512@gmail.com
 - 🌐 [GitHub Profile](https://github.com/Tanishka-31)
 
 ---
